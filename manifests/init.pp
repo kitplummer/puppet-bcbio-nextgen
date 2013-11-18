@@ -1,0 +1,5 @@
+class bcbio (
+  $user = "bcbio"
+) {
+
+}
